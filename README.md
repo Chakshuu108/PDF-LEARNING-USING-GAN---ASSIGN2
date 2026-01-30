@@ -12,8 +12,9 @@ To estimate the probability density function of a transformed random variable us
 
 The model is trained only on samples of the transformed variable, and the learned distribution is visualized later using Kernel Density Estimation (KDE).
 
-Value of a_r= 
-Value of b_r= 
+Value of a_r = 1.0
+Value of b_r = 0.6
+
 📊 Dataset Description
 
 Dataset: India Air Quality Dataset
